@@ -1,7 +1,7 @@
 # Hi! I'm Gianluca Bellini ![iSolutions](https://media.giphy.com/media/QfvoEfKgqjyTu/giphy.gif)
 
 <p><a href="https://www.isolutions.it/">
-<img align='right' alt="iSolutions" src="https://www.isolutions.it/images/logo-header.png" width="230">
+<img align='right' alt="iSolutions" src="https://www.isolutions.it/images/logo-isolutions.svg" width="230">
 </a></p>
 
 [![Linkedin:GianlucaBellini](https://img.shields.io/badge/-Gianluca%20Bellini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbellini91)](https://www.linkedin.com/in/gbellini91)
